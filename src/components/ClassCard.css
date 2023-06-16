@@ -1,0 +1,36 @@
+.classCard {
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.upperRow{
+    display:flex;
+    flex-direction: column;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+.bottomRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.horde {
+    background-color: blue;
+}
+.gearhedz {
+    background-color: green;
+}
+.warg {
+    background-color: red;
+}
+.hunterz {
+    background-color: gray;
+}
+.rokkaz {
+    background-color: purple;
+}
+.speedkult {
+    background-color: orange;
+}
